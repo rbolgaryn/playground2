@@ -1,3 +1,3 @@
 @testset "example failing test" begin
-  @test false  # for testing
+  @test false  # testing
 end
